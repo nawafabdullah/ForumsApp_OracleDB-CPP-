@@ -1,9 +1,0 @@
-This is a forum application that allows users to create user profiles, post messages, search for topics and thread IDs given a specific board, 
-and read moreabout a specific thread given the thread ID. The application is also equipped with variety of error checks ike if the user tries
-to register with a username that is previously taken, the program will inform the user to chose a diffrent username,
-and it will give the user another chance to enter the username. Also ,if the user enters a string for the age, the program will inform the user that 
-their entry was invalid and it will return the user to register again. Furthermore, when trying to post a message, 
-if the username does not exist in the database, the program will tell the user that the user should become a member first to be able to post messages, 
-and it will suggest the user to chose option 'A' to register. Moreover, if the user choses option 'S' to read more about a specific thread
-(i.e the body of the thread), the program will complain if the thread ID entered is wrong. The program is also equipped with other functionalities that 
-can be noticed upon using it 
